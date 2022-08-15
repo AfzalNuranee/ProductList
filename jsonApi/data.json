@@ -1,0 +1,152 @@
+{
+  "productlist": [
+    {
+      "Name": "T-shirt",
+      "Image": "https://rukminim1.flixcart.com/image/452/542/kzegk280/t-shirt/n/h/l/s-t285hs-as7whdnmt-eyebogler-original-imagbfyge6kae4xg.jpeg?q=50",
+      "Category": "Men Clothing",
+      "Price": "199",
+      "Rating": "3.5",
+      "Discription": "Striped Men Polo Neck White, Blue, Yellow T-Shirt",
+      "id": 1,
+      "addToCart": false
+    },
+    {
+      "Name": "TRIPR",
+      "Image": "https://rukminim1.flixcart.com/image/452/542/klphn680hlty2aw/t-shirt/k/e/c/xs-t322-blwh-eyebogler-original-imagyufkkc6ehgmu.jpeg?q=50",
+      "Category": "Men Clothing",
+      "Price": "298",
+      "Rating": "4",
+      "Discription": "Printed Men Round Neck Dark Blue T-Shirt",
+      "id": 2
+    },
+    {
+      "Name": "Dennis Lingo",
+      "Image": "https://rukminim1.flixcart.com/image/452/542/l1grgcw0/t-shirt/x/o/5/m-t428hs-tm5p-eyebogler-original-imagdf2egzjxeqgk.jpeg?q=50",
+      "Category": "Men Clothing",
+      "Price": "399",
+      "Rating": "4.5",
+      "Discription": "Men Slim Fit Solid Spread Collar Casual Shirt",
+      "id": 3,
+      "addToCart": false
+    },
+    {
+      "Name": "Shirt",
+      "Image": "https://rukminim1.flixcart.com/image/452/542/k0e66q80/shirt/8/m/a/38-fw01-finivo-fashion-original-imafk7bqb6aatuqg.jpeg?q=50",
+      "Category": "Men Clothing",
+      "Price": "459",
+      "Rating": "3",
+      "Discription": "Men Regular Fit Solid Spread Collar Casual Shirt",
+      "id": 4
+    },
+    {
+      "Name": "Women Neck tshirt",
+      "Image": "https://rukminim1.flixcart.com/image/452/542/l2arp8w0/shopsy-t-shirt/s/3/0/s-nmp-try-this-original-imag5xe3sdhgg8sg.jpeg?q=50",
+      "Category": "Women Clothing",
+      "Price": "899",
+      "Rating": "4.5",
+      "Discription": "Color Block Women Round Neck Maroon, Black T-Shirt",
+      "id": 5,
+      "addToCart": false
+    },
+    {
+      "Name": "Blue Top",
+      "Image": "https://rukminim1.flixcart.com/image/800/960/k1i6ikw0/top/f/j/h/s-58769-0007-levi-s-original-imafh2fezbzaekux.jpeg?q=50",
+      "Category": "Women Clothing",
+      "Price": "799",
+      "Rating": "4",
+      "Discription": "Casual Cuffed Sleeves Solid Women Blue Top",
+      "id": 6,
+      "addToCart": false
+    },
+    {
+      "Name": "Women Grey Top",
+      "Image": "https://rukminim1.flixcart.com/image/800/960/km3s1ow0/top/t/e/l/s-prw-1017-prettify-original-imagf2xfzcuzbceb.jpeg?q=50",
+      "Category": "Women Clothing",
+      "Price": "699",
+      "Rating": "4",
+      "Discription": "Casual Regular Sleeves Embroidered Women Grey Top",
+      "id": 7,
+      "addToCart": false
+    },
+    {
+      "Name": "Women Tshirt",
+      "Image": "https://rukminim1.flixcart.com/image/800/960/xif0q/t-shirt/e/e/s/m-os-st3008-td-veirdo-original-imagcznutvegc5kn-bb.jpeg?q=50",
+      "Category": "Women Clothing",
+      "Price": "499",
+      "Rating": "3.5",
+      "Discription": "Tie & Dye Women Round Neck White T-Shirt",
+      "id": 8,
+      "addToCart": false
+    },
+    {
+      "Name": "Canon Camera",
+      "Image": "https://rukminim1.flixcart.com/image/312/312/kuyf8nk0/sports-action-camera/p/e/z/black-waterproof-action-camera-with-front-lcd-and-touch-rear-original-imag7yg4haansvzn.jpeg?q=70",
+      "Category": "Electronic",
+      "Price": "1299",
+      "Rating": "3.5",
+      "Discription": "NIKON Z 50 Mirrorless Camera Body  Lenses  (Black)",
+      "id": 9,
+      "addToCart": false
+    },
+    {
+      "Name": "Drone",
+      "Image": "https://rukminim1.flixcart.com/image/300/300/jykfxjk0/remote-control-toy/4/a/2/vision-drone-with-wifi-hd-camera-fpv-first-person-preview-sirius-original-imaf9jumdbgcyfbf.jpeg?q=90",
+      "Category": "Electronic",
+      "Price": "9999",
+      "Rating": "4",
+      "Discription": "Sirius Toys Vision Drone Drone",
+      "id": 10,
+      "addToCart": false
+    },
+    {
+      "Name": "Sony Camera",
+      "Image": "https://rukminim1.flixcart.com/image/300/300/l5jxt3k0/dslr-camera/m/n/a/-original-imagg7hsggshhwbz.jpeg?q=90",
+      "Category": "Electronic",
+      "Price": "11999",
+      "Rating": "4",
+      "Discription": "SONY Alpha Full Frame ILCE-7M2K/BQ IN5 Mirrorless Camera Body",
+      "id": 11,
+      "addToCart": false
+    },
+    {
+      "Name": "Go pro",
+      "Image": "https://rukminim1.flixcart.com/image/312/312/kdhphu80/instant-camera/g/m/y/native-4k-60fps-wifi-action-camera-2-33-ips-retina-display-type-original-imafue3gmfzrpygw.jpeg?q=70",
+      "Category": "Electronic",
+      "Price": "2999",
+      "Rating": "4",
+      "Discription": "JCAM SJ8 Pro Native 4K 60fps Wifi Action Camera",
+      "id": 12,
+      "addToCart": false
+    },
+    {
+      "Name": "oppo K10 5G",
+      "Image": "https://rukminim1.flixcart.com/image/312/312/l4d2ljk0/mobile/x/d/z/-original-imagf9wt5emzsjqz.jpeg?q=70",
+      "Category": "Accessories",
+      "Price": "11999",
+      "Rating": "3.5",
+      "Discription": "OPPO K10 5G (Ocean Blue, 128 GB)  (6 GB RAM)\n",
+      "id": 13,
+      "addToCart": false
+    },
+    {
+      "Name": "Redmi",
+      "Image": "https://rukminim1.flixcart.com/image/312/312/l4n2oi80/mobile/m/w/x/-original-imagfhu6bdzhnmkz.jpeg?q=70",
+      "Category": "Accessories",
+      "Price": "14999",
+      "Rating": "4",
+      "Discription": "REDMI 10 (Pacific Blue, 64 GB)  (4 GB RAM)",
+      "id": 15,
+      "addToCart": false
+    },
+    {
+      "Name": "Infinix",
+      "Image": "https://rukminim1.flixcart.com/image/312/312/l3dcl8w0/mobile/y/f/b/-original-imageg2qrjbhfqyb.jpeg?q=70",
+      "Category": "Accessories",
+      "Price": "15999",
+      "Rating": "3.5",
+      "Discription": "Infinix Note 12 (Force Black, 64 GB)  (6 GB RAM)",
+      "id": 16,
+      "addToCart": false
+    }
+  ]
+}
